@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Mina&family=Roboto:ital,wght@1,300&display=swap');
+
+body{
+  background-color: skyblue;
+  font-family: 'Mina', sans-serif;
+  font-family: 'Roboto', sans-serif;
+}
+
+a{
+  text-decoration: none;
+  color: red;
+}
